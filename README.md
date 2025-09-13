@@ -1,3 +1,6 @@
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/unbeatable.abhay?igsh=aGw4eGt6MTJpbjJn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhay-pratap-s-55564a2a1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@fitwithabhayvlogss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialabhay0612@gmail.com) 
+
 # 💫 Hi 👋, I'm Abhay Pratap Singh
 **A passionate Data Analyst/Data Scientist || Financial Analyst || Python Programmer**
 
@@ -11,8 +14,7 @@ Email Me 👉 ✉️ **officialabhay0612@gmail.com** and support me to get my dr
 - 😄 **Pronouns:** Abhay
 - 🌐 **others :** ALSO KNOWN GERMAN (DEUTSCHE) LANGUAGE [A2LEVEL] because I love to learn different languages.
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me.
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/unbeatable.abhay?igsh=aGw4eGt6MTJpbjJn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhay-pratap-s-55564a2a1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@fitwithabhayvlogss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialabhay0612@gmail.com) 
+ 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BYTECAFFEINE-dot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
