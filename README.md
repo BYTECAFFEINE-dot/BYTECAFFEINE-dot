@@ -7,9 +7,9 @@
 Email Me 👉 ✉️ **officialabhay0612@gmail.com** and support me to get my dream Analyst Job. 😊😊
 
 - 🔭 **I’m currently working on:**  Python Programming.
-- 🌱 **I’m currently learning:** Finance/Business/Data Analytics.
-- 👉 **Worked On:** Microsoft Excel/Google Sheets
-- 💬 **Ask me about:** Tech related, Data Analytics, making Finance Report
+- 🌱 **I’m currently learning:** Finance/Business/Data Analytics/Artificial Intelligence/Data Science
+- 👉 **Worked On:** Microsoft Excel/Google Sheets/DevOps
+- 💬 **Ask me about:** Tech related, Data Analytics, making Finance Report,data Science
 - 📫 **How to reach me:** officialabhay0612@gmail.com
 - 😄 **Pronouns:** Abhay
 - 🌐 **others :** ALSO KNOWN GERMAN (DEUTSCHE) LANGUAGE [A2LEVEL] because I love to learn different languages.
