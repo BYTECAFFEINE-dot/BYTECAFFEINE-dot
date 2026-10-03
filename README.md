@@ -2,13 +2,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/unbeatable.abhay?igsh=aGw4eGt6MTJpbjJn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhay-pratap-s-55564a2a1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@fitwithabhayvlogss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialabhay0612@gmail.com) 
 
 # 💫 Hi 👋, I'm Abhay Pratap Singh
-**A passionate Data Analyst/Data Scientist || Financial Analyst || Python Programmer**
+**A passionate Full Stack Developer||AI Engineer|| Financial Analyst || Python Programmer**
 
 Email Me 👉 ✉️ **officialabhay0612@gmail.com** and support me to get my dream Analyst Job. 😊😊
 
-- 🔭 **I’m currently working on:**  Python Programming.
-- 🌱 **I’m currently learning:** Finance/Business/Data Analytics/Artificial Intelligence/Data Science
-- 👉 **Worked On:** Microsoft Excel/Google Sheets/DevOps
+- 🔭 **I’m currently working on:**  Artificial Intelligence, Backend Development in Node.Js.
+- 🌱 **I’m currently learning:** GenAI/Langchain/LLM/Finance/Data Analytics
+- 👉 **Worked On:** Frontend/Backend Development/AI integration/DevOps
 - 💬 **Ask me about:** Tech related, Data Analytics, making Finance Report,data Science
 - 📫 **How to reach me:** officialabhay0612@gmail.com
 - 😄 **Pronouns:** Abhay
