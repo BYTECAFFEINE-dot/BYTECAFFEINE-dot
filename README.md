@@ -4,7 +4,7 @@
 # 💫 Hi 👋, I'm Abhay Pratap Singh
 **A passionate Full Stack Developer||AI Engineer|| Financial Analyst || Python Programmer**
 
-Email Me 👉 ✉️ **officialabhay0612@gmail.com** and support me to get my dream Analyst Job. 😊😊
+Email Me 👉 ✉️ **officialabhay0612@gmail.com** for any queries mail me. 😊😊
 
 - 🔭 **I’m currently working on:**  Artificial Intelligence, Backend Development in Node.Js.
 - 🌱 **I’m currently learning:** GenAI/Langchain/LLM/Finance/Data Analytics
